@@ -19,6 +19,7 @@ body{
 .head{
     font-size: 15px;
     padding: 20px;
+    font-family: 'Work Sans', sans-serif;
 }
 .product-image{
     position: absolute;
